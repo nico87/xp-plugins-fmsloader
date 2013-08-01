@@ -1,4 +1,4 @@
-FMS flight plan loader plugin for X-Plane 10 v1.0.0
+Flightplan loader plugin for X-Plane 10 v1.0.0
 ===================================================
 
 This plugin let you type your flight plan into the FMS.

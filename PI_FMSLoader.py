@@ -1,3 +1,16 @@
+"""
+Flightplan loader plugin for X-Plane 10 v1.0.0
+
+This plugin let you type your flight plan into the FMS.
+For more informations, please refer to the README.md file.
+
+This file is released under the GNU GPL v2 licence.
+
+Author: Claudio Nicolotti - https://github.com/nico87/
+
+If you want to update this plugin or create your own fork please visit https://github.com/nico87/xp-plugins-fmsloader
+"""
+
 from XPLMDefs import *
 from XPLMProcessing import *
 from XPLMDataAccess import *
